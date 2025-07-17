@@ -58,18 +58,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots | Capturas
-
-> *(Replace these with real screenshots of your tool)*
-
-**Main Menu | Menú Principal**  
-![Menu Example](https://via.placeholder.com/600x300.png?text=Main+Menu+Example)
-
-**Lookup Example | Ejemplo de Búsqueda**  
-![Lookup Example](https://via.placeholder.com/600x300.png?text=Phone+Lookup+Example)
-
----
-
 ## ⚠️ Usage Policy | Políticas de Uso
 
 **🇬🇧 English**  
